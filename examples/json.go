@@ -1,11 +1,12 @@
-//+build ignore
+//go:build ignore
+// +build ignore
 
 package examples
 
 import (
 	"fmt"
 
-	"github.com/hr3lxphr6j/requests"
+	"github.com/yuhaohwang/requests"
 )
 
 func JSONExample() {

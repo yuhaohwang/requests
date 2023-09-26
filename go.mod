@@ -1,4 +1,4 @@
-module github.com/hr3lxphr6j/requests
+module github.com/yuhaohwang/requests
 
 go 1.14
 
