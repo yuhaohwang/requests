@@ -1,4 +1,4 @@
-module requests
+module github.com/yuhaohwang/requests
 
 go 1.21.1
 
